@@ -1,38 +1,27 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: 回報錯誤或提出新功能需求
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+## 📌 問題描述 / 功能需求
+清楚描述問題或需求。
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+## 🔄 重現步驟 (若為 Bug)
+1. 操作步驟
+2. 預期結果
+3. 實際結果
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+## 🖥 環境資訊
+- 作業系統與版本：
+- 軟體版本：
+- ffmpeg/ffprobe 版本：
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+## 📷 螢幕截圖 / Log (選填)
+附上相關截圖或錯誤訊息。
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+## ✅ 預期解決方案 (若為 Feature)
+描述希望新增或改善的功能。
