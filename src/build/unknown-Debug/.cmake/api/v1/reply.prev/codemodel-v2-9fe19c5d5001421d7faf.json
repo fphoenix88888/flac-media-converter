@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-093fc7aa656e09d37e1f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "flac-media-converter",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "flac-media-converter::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-flac-media-converter-Debug-24c757de3d8d48bd112c.json",
+					"name" : "flac-media-converter",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "flac-media-converter_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-flac-media-converter_autogen-Debug-e67f07582531bbbf9b02.json",
+					"name" : "flac-media-converter_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "flac-media-converter_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-flac-media-converter_autogen_timestamp_deps-Debug-3bedfa30b91284c783d0.json",
+					"name" : "flac-media-converter_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/fphoenix/\u6587\u4ef6/projects/flac-media-converter/build/unknown-Debug",
+		"source" : "/home/fphoenix/\u6587\u4ef6/projects/flac-media-converter"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}

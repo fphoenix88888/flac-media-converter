@@ -1,0 +1,9 @@
+/home/fphoenix/文件/projects/flac-media-converter/build/unknown-Debug/CMakeFiles/flac-media-converter.dir
+/home/fphoenix/文件/projects/flac-media-converter/build/unknown-Debug/CMakeFiles/edit_cache.dir
+/home/fphoenix/文件/projects/flac-media-converter/build/unknown-Debug/CMakeFiles/rebuild_cache.dir
+/home/fphoenix/文件/projects/flac-media-converter/build/unknown-Debug/CMakeFiles/list_install_components.dir
+/home/fphoenix/文件/projects/flac-media-converter/build/unknown-Debug/CMakeFiles/install.dir
+/home/fphoenix/文件/projects/flac-media-converter/build/unknown-Debug/CMakeFiles/install/local.dir
+/home/fphoenix/文件/projects/flac-media-converter/build/unknown-Debug/CMakeFiles/install/strip.dir
+/home/fphoenix/文件/projects/flac-media-converter/build/unknown-Debug/CMakeFiles/flac-media-converter_autogen_timestamp_deps.dir
+/home/fphoenix/文件/projects/flac-media-converter/build/unknown-Debug/CMakeFiles/flac-media-converter_autogen.dir

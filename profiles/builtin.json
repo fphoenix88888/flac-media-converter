@@ -1,0 +1,212 @@
+[
+  {
+    "name": "Mono-44k-s16",
+    "sample_rate": 44100,
+    "sample_fmt": "s16",
+    "map_metadata": true,
+    "channels": 1,
+    "surround_layout": "",
+    "notes": "單聲道 44.1kHz 16bit",
+    "version": 1
+  },
+  {
+    "name": "Mono-96k-s16",
+    "sample_rate": 96000,
+    "sample_fmt": "s16",
+    "map_metadata": true,
+    "channels": 1,
+    "surround_layout": "",
+    "notes": "單聲道 44.1kHz 16bit",
+    "version": 1
+  },
+  {
+    "name": "Mono-192k-s16",
+    "sample_rate": 19200,
+    "sample_fmt": "s16",
+    "map_metadata": true,
+    "channels": 1,
+    "surround_layout": "",
+    "notes": "單聲道 44.1kHz 16bit",
+    "version": 1
+  },
+  {
+    "name": "Stereo-48k-s32",
+    "sample_rate": 48000,
+    "sample_fmt": "s32",
+    "map_metadata": true,
+    "channels": 2,
+    "surround_layout": "",
+    "notes": "立體聲 48kHz 24bit",
+    "version": 1
+  },
+  {
+    "name": "Stereo-96k-s32",
+    "sample_rate": 96000,
+    "sample_fmt": "s32",
+    "map_metadata": true,
+    "channels": 2,
+    "surround_layout": "",
+    "notes": "立體聲 96kHz 24bit",
+    "version": 1
+  },
+  {
+    "name": "Stereo-192k-s32",
+    "sample_rate": 192000,
+    "sample_fmt": "s32",
+    "map_metadata": true,
+    "channels": 2,
+    "surround_layout": "",
+    "notes": "立體聲 192kHz 24bit",
+    "version": 1
+  },
+  {
+    "name": "Quad-48k-s32",
+    "sample_rate": 48000,
+    "sample_fmt": "s32",
+    "map_metadata": true,
+    "channels": 4,
+    "surround_layout": "quad",
+    "notes": "四聲道 Quad 48kHz 24bit",
+    "version": 1
+  },
+  {
+    "name": "Quad-96k-s32",
+    "sample_rate": 96000,
+    "sample_fmt": "s32",
+    "map_metadata": true,
+    "channels": 4,
+    "surround_layout": "quad",
+    "notes": "四聲道 Quad 96kHz 24bit",
+    "version": 1
+  },
+  {
+    "name": "Quad-192k-s32",
+    "sample_rate": 192000,
+    "sample_fmt": "s32",
+    "map_metadata": true,
+    "channels": 4,
+    "surround_layout": "quad",
+    "notes": "四聲道 Quad 192kHz 24bit",
+    "version": 1
+  },
+  {
+    "name": "5.1 Surround-48k-s32",
+    "sample_rate": 48000,
+    "sample_fmt": "s32",
+    "map_metadata": true,
+    "channels": 6,
+    "surround_layout": "5.1",
+    "notes": "常見家庭劇院 5.1 聲道",
+    "version": 1
+  },
+  {
+    "name": "5.1 Surround-96k-s32",
+    "sample_rate": 96000,
+    "sample_fmt": "s32",
+    "map_metadata": true,
+    "channels": 6,
+    "surround_layout": "5.1",
+    "notes": "常見家庭劇院 5.1 聲道",
+    "version": 1
+  },
+  {
+    "name": "5.1 Surround-192k-s32",
+    "sample_rate": 192000,
+    "sample_fmt": "s32",
+    "map_metadata": true,
+    "channels": 6,
+    "surround_layout": "5.1",
+    "notes": "常見家庭劇院 5.1 聲道",
+    "version": 1
+  },
+  {
+    "name": "5.1 Channels Only-48k-s32",
+    "sample_rate": 48000,
+    "sample_fmt": "s32",
+    "map_metadata": true,
+    "channels": 6,
+    "surround_layout": "",
+    "notes": "僅指定 6 聲道，不強制套用 layout",
+    "version": 1
+  },
+  {
+    "name": "5.1 Channels Only-96k-s32",
+    "sample_rate": 96000,
+    "sample_fmt": "s32",
+    "map_metadata": true,
+    "channels": 6,
+    "surround_layout": "",
+    "notes": "僅指定 6 聲道，不強制套用 layout",
+    "version": 1
+  },
+  {
+    "name": "5.1 Channels Only-192k-s32",
+    "sample_rate": 192000,
+    "sample_fmt": "s32",
+    "map_metadata": true,
+    "channels": 6,
+    "surround_layout": "",
+    "notes": "僅指定 6 聲道，不強制套用 layout",
+    "version": 1
+  },
+  {
+    "name": "7.1 Surround-48k-s32",
+    "sample_rate": 48000,
+    "sample_fmt": "s32",
+    "map_metadata": true,
+    "channels": 8,
+    "surround_layout": "7.1",
+    "notes": "高階家庭劇院 7.1 聲道",
+    "version": 1
+  },
+  {
+    "name": "7.1 Surround-96k-s32",
+    "sample_rate": 96000,
+    "sample_fmt": "s32",
+    "map_metadata": true,
+    "channels": 8,
+    "surround_layout": "7.1",
+    "notes": "高階家庭劇院 7.1 聲道",
+    "version": 1
+  },
+  {
+    "name": "7.1 Surround-192k-s32",
+    "sample_rate": 192000,
+    "sample_fmt": "s32",
+    "map_metadata": true,
+    "channels": 8,
+    "surround_layout": "7.1",
+    "notes": "高階家庭劇院 7.1 聲道",
+    "version": 1
+  },
+  {
+    "name": "7.1 Channels Only-48k-s32",
+    "sample_rate": 48000,
+    "sample_fmt": "s32",
+    "map_metadata": true,
+    "channels": 8,
+    "surround_layout": "",
+    "notes": "僅指定 8 聲道，不強制套用 layout",
+    "version": 1
+  },
+  {
+    "name": "7.1 Channels Only-96k-s32",
+    "sample_rate": 96000,
+    "sample_fmt": "s32",
+    "map_metadata": true,
+    "channels": 8,
+    "surround_layout": "",
+    "notes": "僅指定 8 聲道，不強制套用 layout",
+    "version": 1
+  },
+  {
+    "name": "7.1 Channels Only-192k-s32",
+    "sample_rate": 192000,
+    "sample_fmt": "s32",
+    "map_metadata": true,
+    "channels": 8,
+    "surround_layout": "",
+    "notes": "僅指定 8 聲道，不強制套用 layout",
+    "version": 1
+  }
+]
