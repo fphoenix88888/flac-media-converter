@@ -67,4 +67,4 @@ git push origin feature/your-feature
 ---
 
 ## 📜 授權
-提交的程式碼將依照本專案的 [LICENSE](LICENSE)條款釋出。
+提交的程式碼將依照本專案的 [LICENSE](LICENSE) 條款釋出。
