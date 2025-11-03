@@ -72,9 +72,9 @@ docs/       # 文件與設計
 ## 🤝 貢獻方式
 
 1. Fork 專案
-2. 建立 feature branch (git checkout -b feature/xxx)
-3. 提交修改 (git commit -m "Add xxx")
-4. Push 到分支 (git push origin feature/xxx)
+2. 建立 feature branch (```git checkout -b feature/xxx```)
+3. 提交修改 (```git commit -m "Add xxx"```)
+4. Push 到分支 (```git push origin feature/xxx```)
 5. 發送 Pull Request
 
 ---
