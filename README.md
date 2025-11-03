@@ -12,7 +12,7 @@
 * 🌐 多語系支援：繁體中文 / 英文 / 日文
 * 📊 即時進度：單檔與整體進度條、檔案清單狀態
 * 🛠 效能測試工具：轉換速度與資源使用分析
-* 🖥 跨平台：Windows / macOS / Linux
+* 🖥 跨平台：Windows / macOS(預定未來支援) / Linux
 
 ---
 
@@ -23,7 +23,7 @@
 * 下載 Release 中的安裝檔（已附帶 ffmpeg/ffprobe）
 * 解壓縮或執行安裝程式即可使用
 
-### macOS
+### macOS(預定未來支援)
 
 * 下載 .dmg 檔，拖曳至 Applications
 * ffmpeg/ffprobe 可隨附或透過 Homebrew 安裝
